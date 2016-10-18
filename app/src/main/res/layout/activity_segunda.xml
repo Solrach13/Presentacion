@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_segunda"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.hansel.tarjeta.Segunda"
+    android:background="@drawable/fondo">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/Blanco"
+        android:text="Lenguajes de Programación: \n\n 1.C\n 2.C++\n 3.Java\n 4.SQL\n 5.C#\n 6.HTML/CSS\n 7.Javascript\n 8.Visual Basic\n\n Experto rn Administracion de Servidores.\n\nAnalista de Sistemas"
+        android:textSize="40px"
+        />
+
+</RelativeLayout>
